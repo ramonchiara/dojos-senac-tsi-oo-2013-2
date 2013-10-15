@@ -1,0 +1,64 @@
+﻿* **Data:** 30/09/2013
+* **Horário:** 21:15
+* **Linguagem:** C#
+* **Problema:** O problema proposto foi a de criação de classes que permitissem a seguinte saída:  
+Cliente: ___  
+Telefone: ___  
+Pedido #: ___  
+Item Produto Quantidade Preço Total  
+1 ___ ___ ___ ___  
+2 ___ ___ ___ ___  
+3 ___ ___ ___ ___  
+Total: ___  
+* **Formato:** Randori
+* **Participantes**:  Cirlene Alves Pimenta, David Anderson da Silva Rocha, Débora Sasaki Amorim, Denis Martos, Edson Antônio de Almeida Júnior, Emerson Gaudino Garcia, Érika Lima Vila Nova, Francisco Gregório da Silva Júnior, Guilherme Pettine, Isaac Eliape Ferreira de Brito, Osmar de Souza Queiroz, Patrícia de Lima Santos, Rafael Godinho dos Santos Lima, Ramon Chiara.
+* **Código**: [GitHub](https://github.com/ramonchiara/dojos-senac-tsi-oo-2013-2)
+
+A idéia de usar um [Coding Dojo](http://pet.inf.ufsc.br/dojo/o-que-eh-dojo/) em sala de aula é muito interessante e foi [comentada por Vinicius Manhães Teles](http://blog.improveit.com.br/articles/2010/05/28/apelo-parem-de-ensinar-comp-i-nas-faculdades).
+Seguindo essa idéia, no dia 30/09/2013 foi feito um primeiro Dojo na aula de Orientação a Objetos do curso de Tecnologia em Sistemas para Internet do Senac São Paulo.
+A idéia era colocar em prática o que foi aprendido na primeira parte da aula (associação entre classes).
+
+Como era a primeira vez que um Dojo ia ser feito com a turma, o professor explicou [o que é um Dojo](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Coding%20Dojo.png) e um pouco sobre desenvolvimento orientado a testes (TDD - Test Driven Development).
+Isso fez com que o tempo disponível para o Dojo ficasse muito curto, o que refletiu na retrospectiva. Apesar das dificuldades iniciais, a turma experimentou as práticas de Programação em Pares em turnos de 5 minutos, TDD e Retrospectiva.
+
+Veja algumas fotos:
+
+![Dupla codificando.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo1/Fotos/2013-09-30%2022.00.25.jpg)
+
+![Pessoal atento ao código.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo1/Fotos/2013-09-30%2022.00.44.jpg)
+
+![Problema proposto.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo1/Fotos/2013-09-30%2022.01.02.jpg)
+
+![Detalhamento do problema.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo1/Fotos/2013-09-30%2022.04.37.jpg)
+
+![Dojo em andamento...](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo1/Fotos/2013-09-30%2022.04.50.jpg)
+
+![Problema proposto.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo1/Fotos/2013-09-30%2022.05.11.jpg)
+
+**Retrospectiva:**
+
+* _O que deu certo? / O que aprendemos?_
+ * Dar continuidade ao raciocínio de outra pessoa / Desenvolver o raciocínio (rápido).
+ * O Dojo é muito interessante / O Dojo é uma ótima ferramenta para a prática x2 / O Dojo é didático e divertido.
+ * Ambiente de testes x3 / Aprendemos a testar um código para ver se ele funciona / Divisão por partes ajudou a compreender.
+ * Programação em pares x2 / Trabalhar em equipe e com pessoas diferentes x2 / Ajuda a integrar a equipe / Quem sabe mais ajuda quem sabe menos.
+ * Troca de idéias entre os participantes x2 / Ao compartilhar dúvidas fica mais fácil solucioná-las.
+ * Problemas podem ser resolvidos de diversas maneiras diferentes / Estimula a adaptação a diferentes situações em um determinado programa.
+ * O exercício se parece com os apresentados em aula.
+ * Aprendemos que precisamos estudar mais a Linguagem C#.
+
+* _O que pode melhorar? / O que dificultou o aprendizado?_
+ * Domínio sobre a linguagem x2.
+ * Dar continuidade ao raciocínio de outra pessoa x2.
+ * Falta de atenção ao que a dupla está fazendo / Falta de silêncio / O pessoal poderia ter participado mais / Faltou comprometimento e vontade de aprender do pessoal / O pessoal poderia ter sido mais colaborativo / Todo mundo participar x2.
+ * O tempo para cada dupla foi curto x3 / O tempo do Dojo foi curto x4 / Não deu tempo de usar os conceitos da aula.
+ * Compreensão do enunciado x2 / Problema mais fácil.
+ * Como usar a ferramenta de testes / Explicar passo-a-passo como os testes funcionam.
+ * Faltou discutir formas de melhorar o código.
+ * O pessoal da platéia deveria poder ajudar (durante a programação).
+ * Deveria poder continuar o problema em um próximo Dojo.
+ * Cada dupla deveria ser formada com alguém que sabe menos junto com alguém que sabe mais.
+ * Cada dupla deveria dizer o que vai fazer para que todos tivessem a mesma idéia.
+ * Faltou post-its.
+ * Não teve pizza / Não teve cerveja.
+ * Deveria haver mais Dojos nas aulas.
