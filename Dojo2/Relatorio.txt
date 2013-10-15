@@ -1,0 +1,58 @@
+﻿* **Data:** 07/10/2013
+* **Horário:** 21:15
+* **Linguagem:** C#
+* **Problema:** O problema proposto foi a de criação de classes que permitissem a seguinte saída:  
+Cliente: João  
+Telefone: (11) 555-8888  
+Pedido #: 3412  
+Item	Produto		Quantidade	Preço	Total  
+1	CPU		1		600,00	600,00  
+2	RAM 1Gb 		8		100,00	800,00  
+3	Pendrive 4Gb	2		50,00	100,00  
+Total: 1500,00
+* **Formato:** Randori
+* **Participantes**: David Anderson da Silva Rocha, _Edson Antônio de Almeida Júnior_, Emerson Gaudino Garcia, Érika Lima Vila Nova, Francisco Gregório da Silva Júnior, _Guilherme Pettine_, Isaac Eliape Ferreira de Brito, _Ivan Felipe Banov_, Osmar de Souza Queiroz, Rafael Godinho dos Santos Lima, Ramon Chiara, William Silva de Souza.
+* **Código**: [GitHub](https://github.com/ramonchiara/dojos-senac-tsi-oo-2013-2)
+
+Nesse segundo Dojo, foi proposto o mesmo problema anterior, mas a descrição continha valores que ajudou a entender melhor o que deveria ser feito.
+Os valores também foram úteis na criação dos testes.
+
+Apesar de começarmos na segunda parte da aula novamente, tivemos mais tempo pois não foi preciso dar uma explicação sobre o que é um Dojo e TDD.
+Além disso, seguindo comentários da retrospectiva anterior, o tempo de programação foi aumentado para 7 minutos.
+Mesmo assim, quase todos participaram na programação em par.
+
+Um ponto que foi feito diferente é que, dessa vez, o professor é quem escrevia os testes enquanto os alunos deviam fazê-los passar.
+Issou ajudou no andamento do Dojo tanto em questão de tempo quando na direção em que o desenvolvimento deveria ir.
+
+Veja algumas fotos:
+
+![A dupla Osmar e David começam o Dojo](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo2/Fotos/2013-10-07%2021.36.00.jpg)
+
+![Pessoal acompanhando a dupla Osmar e David](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo2/Fotos/2013-10-07%2021.36.18.jpg)
+
+![Pessoal fazendo a retrospectiva](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo2/Fotos/2013-10-07%2022.35.21.jpg)
+
+![Pessoal fazendo a retrospectiva (e temos uma convidada!)](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo2/Fotos/2013-10-07%2022.35.28.jpg)
+
+![Restrospectiva](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo2/Fotos/2013-10-07%2022.42.20.jpg)
+
+![Pontos positivos](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo2/Fotos/2013-10-07%2022.42.32.jpg)
+
+![Pontos negativos](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo2/Fotos/2013-10-07%2022.42.41.jpg)
+
+**Retrospectiva:**
+
+* _O que deu certo? / O que aprendemos?_
+ * O pessoal estava empenhado / Participação de todos x3.
+ * Criação de diversos métodos / Ajuda a desenvolver a lógica do outro / Fica mais fácil identificar o erro estando do lado de "fora".
+ * O professor ajudou a começar os testes e isso ajudou.
+ * Ajudou a revisar a matéria / Revisão de lista x2.
+ * Tempo suficiente / Maior tempo de desenvolvimento x2.
+ * Retrospectiva com post-its.
+
+* _O que pode melhorar? / O que dificultou o aprendizado?_
+ * Tempo curto / Não trabalho sob pressão.
+ * Entender lista / Faltou lembrar conceitos antigos, como List.
+ * Explorar métodos que recebe mais de um item.
+ * Godinho na sala _(sacanagem, galera!)_.
+ 
