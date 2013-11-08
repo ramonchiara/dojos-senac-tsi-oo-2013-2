@@ -1,0 +1,80 @@
+﻿* **Data:** 04/11/2013
+* **Horário:** 21:15
+* **Linguagem:** C#
+* **Problema:** Lista 7 (link) e guardar o PDF junto
+
+
+* **Formato:** Randori
+* **Participantes**:
+*Caio de Arruda Campos Coan*,
+*David Anderson da Silva Rocha*,
+Denis Martos,
+Edson Antônio de Almeida Júnior,
+*Emerson Gaudino Garcia*,
+*Érika Lima Vila Nova*,
+Francisco Gregório da Silva Júnior,
+Guilherme Cardoso da Silva,
+*Isaac Eliape Ferreira de Brito*,
+*Osmar de Souza Queiroz*,
+*Patrícia de Lima Santos*,
+*Rafael Godinho dos Santos Lima*,
+*Ramon Chiara*,
+William Silva de Souza.
+
+* **Código**: [GitHub](https://github.com/ramonchiara/dojos-senac-tsi-oo-2013-2)
+
+Questão da classe abstrata surgiu quando precisamos calcular o valor do salario para a classe Programador
+logo apos vimos que o metodo que calcula o salario é igual para todos e O professo r ia passar o pattern "template", mas  forcamos a passagem do valor da hora pelo construtor, o que acabou tirando a necessidade de um metodo abstrato, apesar da classe permanencer abstrata (tb vimos que o meotod getnome, que é concreto, foi parara na classes abstrata) 
+Depois veio o gerente e vimos que havia a necessidade de chamar programdor de funcionario
+depois veio o vendedor e vimos que talvez teríamos que dividir em funcionário e funcionário horista, criando toda uma hierarquia de classes
+[Colocar uma figura com essa hierarquia]
+O tempo estava finalizando e o professor propos um teste para o que seria a classe que calcula a folha de pagamento para varios funcionarios.
+Surgiu um problema pq o metodo calcula salario nao estava como virtual... provavelmente o erro foi nao ter colocado desde o inicio o teste como base <- subclasse
+
+
+
+
+
+
+Nesse quarto Dojo, foi proposto o mesmo problema anterior, mas a descrição continha valores que ajudou a entender melhor o que deveria ser feito.
+Os valores também foram úteis na criação dos testes.
+
+Apesar de começarmos na segunda parte da aula novamente, tivemos mais tempo pois não foi preciso dar uma explicação sobre o que é um Dojo e TDD.
+Além disso, seguindo comentários da retrospectiva anterior, o tempo de programação foi aumentado para 7 minutos.
+Mesmo assim, quase todos participaram na programação em par.
+
+Um ponto que foi feito diferente é que, dessa vez, o professor é quem escrevia os testes enquanto os alunos deviam fazê-los passar.
+Issou ajudou no andamento do Dojo tanto em questão de tempo quando na direção em que o desenvolvimento deveria ir.
+
+Veja algumas fotos:
+
+![A dupla Osmar e David começam o Dojo](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo2/Fotos/2013-10-07%2021.36.00.jpg)
+
+![Pessoal acompanhando a dupla Osmar e David](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo2/Fotos/2013-10-07%2021.36.18.jpg)
+
+![Pessoal fazendo a retrospectiva](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo2/Fotos/2013-10-07%2022.35.21.jpg)
+
+![Pessoal fazendo a retrospectiva (e temos uma convidada!)](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo2/Fotos/2013-10-07%2022.35.28.jpg)
+
+![Restrospectiva](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo2/Fotos/2013-10-07%2022.42.20.jpg)
+
+![Pontos positivos](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo2/Fotos/2013-10-07%2022.42.32.jpg)
+
+![Pontos negativos](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo2/Fotos/2013-10-07%2022.42.41.jpg)
+
+**Retrospectiva:**
+
+* _O que deu certo? / O que aprendemos?_
+ * O pessoal estava empenhado / Participação de todos x3.
+ * Criação de diversos métodos / Ajuda a desenvolver a lógica do outro / Fica mais fácil identificar o erro estando do lado de "fora".
+ * O professor ajudou a começar os testes e isso ajudou.
+ * Ajudou a revisar a matéria / Revisão de lista x2.
+ * Tempo suficiente / Maior tempo de desenvolvimento x2.
+ * Retrospectiva com post-its.
+
+* _O que pode melhorar? / O que dificultou o aprendizado?_
+ * Tempo curto / Não trabalho sob pressão.
+ * Entender lista / Faltou lembrar conceitos antigos, como List.
+ * Explorar métodos que recebe mais de um item.
+ * Godinho na sala _(sacanagem, galera!)_.
+ 

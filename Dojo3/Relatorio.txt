@@ -1,0 +1,46 @@
+﻿* **Data:** 28/10/2013
+* **Horário:** 21:15
+* **Linguagem:** C#
+* **Problema:** O problema proposto foi o de criar uma calculadora "polimórfica" com as quatro operações básicas.
+* **Formato:** Randori
+* **Participantes**: Caio de Arruda Campos Coan, David Anderson da Silva Rocha, *Denis Martos*, Edson Antônio de Almeida Júnior, *Emerson Gaudino Garcia*, *Érika Lima Vila Nova*, Fabiana Dias, Francisco Gregório da Silva Júnior, Guilherme Cardoso da Silva, Guilherme Pettine, *Isaac Eliape Ferreira de Brito*, Ivan Felipe Banov, Patrícia de Lima Santos, *Rafael Godinho dos Santos Lima*, *Ramon Chiara*, *William Silva de Souza*.
+* **Código**: [GitHub](https://github.com/ramonchiara/dojos-senac-tsi-oo-2013-2)
+
+Nesse terceiro Dojo, foi proposto a utilização de polimorfismo para a criação de uma calculadora.
+Começamos com a criação de uma classe para a operação de adição, subtração, multiplicação e, finalmente, divisão.
+Foi proposto que a classe de divisão verificasse a divisão por zero; com isso, aprendemos como testar o lançamento de uma exceção.
+Começamos a verificar o que havia em comum nas classes para colocar em uma classe base e mudar o método que calcula o valor da operação para ser virtual/override.
+No final, o professor começou a criar testes para uma classe que permitiria a criação da operação adequeda de acordo com o que o usuário digitasse.
+
+De acordo com a retrospectiva do [Dojo anterior](2º Dojo), mantemos o tempo de 7 minutos e o professor criando os testes.
+Isso se demonstrou adequado e, em princípio, será mantido nos próximos Dojos.
+
+Veja algumas fotos:
+
+![Pessoal concentrado no Dojo.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo3/Fotos/2013-10-28 21.31.49.jpg)
+![Programação paralela!](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo3/Fotos/2013-10-28 21.32.14.jpg)
+![Fazendo a retrospectiva.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo3/Fotos/2013-10-28 22.31.33.jpg)
+![Fazendo a retrospectiva.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo3/Fotos/2013-10-28 22.31.48.jpg)
+![Fazendo a retrospectiva.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo3/Fotos/2013-10-28 22.31.57.jpg)
+![Fazendo a retrospectiva.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo3/Fotos/2013-10-28 22.32.39.jpg)
+![Fazendo a retrospectiva.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo3/Fotos/2013-10-28 22.38.31.jpg)
+![Resultado da retrospectiva.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo3/Fotos/2013-10-28 22.38.40.jpg)
+![Resultado da retrospectiva: o que deu certo.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo3/Fotos/2013-10-28 22.38.57.jpg)
+![Resultado da retrospectiva: o que pode melhorar.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo3/Fotos/2013-10-28 22.39.06.jpg)
+![Resultado da retrospectiva.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo3/Fotos/2013-10-28 22.39.45.jpg)
+![Resultado da retrospectiva: o que deu certo, grupo 1.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo3/Fotos/2013-10-28 22.39.55.jpg)
+![Resultado da retrospectiva: o que deu certo, grupo 2.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo3/Fotos/2013-10-28 22.40.03.jpg)
+![Resultado da retrospectiva: o que deu certo, grupo 3.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo3/Fotos/2013-10-28 22.40.10.jpg)
+![Resultado da retrospectiva: o que pode melhorar, grupo 1.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo3/Fotos/2013-10-28 22.40.19.jpg)
+![Resultado da retrospectiva: o que pode melhorar, grupo 2.](https://raw.github.com/ramonchiara/dojos-senac-tsi-oo-2013-2/master/Dojo3/Fotos/2013-10-28 22.40.25.jpg)
+
+**Retrospectiva:**
+
+* _O que deu certo? / O que aprendemos?_
+ * O tempo foi bom / Desenvolvimento dinâmico / Maior participação / A aula foi ótima.
+ * Polimorfismo x5.
+ * Revisão de conteúdo / Melhor entendimento da lógica x2 / Melhor entendimento do processo.
+
+* _O que pode melhorar? / O que dificultou o aprendizado?_
+ * Dificuldade com alguns conceitos x4.
+ * Não utilizar gambiarra (?).
