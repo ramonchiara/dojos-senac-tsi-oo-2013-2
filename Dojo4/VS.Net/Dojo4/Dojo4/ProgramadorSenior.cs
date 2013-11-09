@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace Dojo4
 {
-    class ProgramadorSenior: Funcionario
+    class ProgramadorSenior : Funcionario
     {
         public ProgramadorSenior(string nome, double horas)
-        :base(nome, horas, 80)
+            : base(nome, horas, 80)
         {
         }
-
     }
 }

@@ -9,14 +9,13 @@ namespace Dojo4
     {
         protected string nome;
         protected double vendas;
-        
 
         public Vendedor(string nome, double vendas)
         {
             this.nome = nome;
             this.vendas = vendas;
-            
         }
+
         public double CalculaSalario()
         {
             return (vendas * 0.2 + 2000);

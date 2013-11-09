@@ -17,11 +17,11 @@ namespace Dojo4
             pagamento = 0;
         }
 
-        public double GetTotal() { 
-        
-            foreach(Funcionario f in funcionarios){
+        public double GetTotal()
+        {
+            foreach (Funcionario f in funcionarios)
+            {
                 pagamento += f.CalculaSalario();
-
             }
             return pagamento;
         }

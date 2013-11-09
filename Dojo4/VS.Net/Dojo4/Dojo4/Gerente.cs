@@ -5,12 +5,12 @@ using System.Text;
 
 namespace Dojo4
 {
-    class Gerente:Funcionario
+    class Gerente : Funcionario
     {
         protected double bonus;
 
         public Gerente(string nome, double horas, double bonus)
-            :base(nome,horas,100)
+            : base(nome, horas, 100)
         {
             this.bonus = bonus;
         }

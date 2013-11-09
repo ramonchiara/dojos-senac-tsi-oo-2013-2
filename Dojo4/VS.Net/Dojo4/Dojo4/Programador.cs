@@ -18,6 +18,7 @@ namespace Dojo4
             this.horas = horas;
             this.valordahora = valordahora;
         }
+
         public virtual double CalculaSalario()
         {
             return horas * valordahora;

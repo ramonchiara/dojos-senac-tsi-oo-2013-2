@@ -105,7 +105,7 @@ namespace Dojo4
 
             Folha folha = new Folha(lista);
 
-            Assert.AreEqual(30*100 + 45*100 + 100*100+1000, folha.GetTotal());
+            Assert.AreEqual(30 * 100 + 45 * 100 + 100 * 100 + 1000, folha.GetTotal());
         }
     }
 }

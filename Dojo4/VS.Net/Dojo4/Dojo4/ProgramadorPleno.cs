@@ -9,10 +9,8 @@ namespace Dojo4
     class ProgramadorPleno : Funcionario
     {
         public ProgramadorPleno(string nome, double horas)
-        :base(nome, horas, 45)
+            : base(nome, horas, 45)
         {
-           
         }
-
     }
 }

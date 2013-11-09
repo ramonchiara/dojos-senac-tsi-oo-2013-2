@@ -5,12 +5,11 @@ using System.Text;
 
 namespace Dojo4
 {
-    class ProgramadorNinja: Funcionario
+    class ProgramadorNinja : Funcionario
     {
         public ProgramadorNinja(string nome, double horas)
-        :base(nome, horas, 1000)
+            : base(nome, horas, 1000)
         {
-           
         }
     }
 }
